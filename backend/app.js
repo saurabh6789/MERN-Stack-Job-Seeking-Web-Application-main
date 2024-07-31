@@ -18,7 +18,7 @@ app.use(
     // method: ["GET", "POST", "DELETE", "PUT"],
     // credentials: true,
     // // Access-Control-Allow-Origin: *
-    origin: 'https://mern-stack-job-seeking-web-application-92cq.onrender.com',
+    origin: 'https://localhost:5173',
     methods: ['GET', 'POST', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials:true
