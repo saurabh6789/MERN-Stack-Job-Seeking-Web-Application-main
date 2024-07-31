@@ -18,7 +18,7 @@ app.use(
     // method: ["GET", "POST", "DELETE", "PUT"],
     // credentials: true,
     // // Access-Control-Allow-Origin: *
-    origin: 'https://localhost:5173',
+    origin: 'https://jobfinder-saurabh6789s-projects.vercel.app',
     methods: ['GET', 'POST', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials:true
